@@ -7,10 +7,10 @@ probel.py - Using method 2: add tab,"\n" to the end of lines
 simvol.py - Using method 3: change ' ' or '\0' to special symbols.
 
 
- ---------NOTE----------------
+***NOTE***
 input.txt: russian text(container) from internet (i chose this text: рассказ Украденные мощи - Автор: Стас Сенькин)
 oput1.txt, oput2.txt, oput2.txt: text, which we have got after encode container (with using method 1, method 2 and method 3)
-------------------------------------------------------------------------------------------------------------------------------
+
 
 How to run:
 
