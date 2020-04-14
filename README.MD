@@ -2,8 +2,11 @@ Explain programme:
 My programme has 4 files:
 
 obshi.py - where the functions used in each method are stored (encode text to binary, decode) 
+
 zamena.py - Using method 1: change letters 'o' and 'p' in russian alphabet to 'o' and 'p' in english alphabet
+
 probel.py - Using method 2: add tab,"\n" to the end of lines
+
 simvol.py - Using method 3: change ' ' or '\0' to special symbols.
 
 
