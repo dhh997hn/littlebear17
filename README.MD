@@ -13,7 +13,7 @@ simvol.py - Using method 3: change ' ' or '\0' to special symbols.
 
 ***NOTE***
 
-input.txt: russian text(container) from internet (i chose this text: рассказ Украденные мощи - Автор: Стас Сенькин)
+input.txt: russian text(container) from internet (i choose this text: рассказ Украденные мощи - Автор: Стас Сенькин)
 
 oput1.txt, oput2.txt, oput2.txt: text, which we have got after encode container (with using method 1, method 2 and method 3)
 
